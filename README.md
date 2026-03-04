@@ -1,9 +1,10 @@
 ## Hej! 👋
-# About me:
-⚛️ React Developer in the making
-⚛️ Information Architecture student at Malmö University
-⚛️ Focused on building structured, scalable and user-centered web applications
 
+### About me
+
+- ⚛️ React Developer in the making  
+- ⚛️ Information Architecture student at Malmö University  
+- ⚛️ Focused on building structured, scalable and user-centered web applications  
 
 
 # ⚛️ Degree Project in collaboration with a large company:
@@ -16,7 +17,7 @@ Delivered an end-to-end software project - from requirements gathering to final 
 - Presented the solution to stakeholders on multiple occasions
 - This project strengthened my ability to connect business needs with scalable frontend architecture.
 
-⚛️ Tech Focus
+# ⚛️ Tech Focus
 - React
 - TypeScript
 - Component-driven architecture
@@ -24,5 +25,5 @@ Delivered an end-to-end software project - from requirements gathering to final 
 - Agile workflows
 - Git & GitHub
 
-⚛️ ## Let’s Connect
+# ⚛️ Let’s Connect
 🔗[LinkedIn](https://linkedin.com/in/ines-suhonjic-19227619a)
