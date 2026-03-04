@@ -1,9 +1,9 @@
 ## Hej! 👋
 
-## About me
-- ⚛️ React Developer in the making  
-- ⚛️ Information Architecture student at Malmö University  
-- ⚛️ Focused on building structured, scalable and user-centered web applications  
+### ⚛️ About me
+- React Developer in the making  
+- Information Architecture student at Malmö University  
+- Focused on building structured, scalable and user-centered web applications  
 
 ### ⚛️ Degree Project in collaboration with a large company:
 Delivered an end-to-end software project - from requirements gathering to final product.
